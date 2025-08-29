@@ -10,7 +10,10 @@ body {
 
 header{
     border-bottom: solid 2px rgb(42, 122,228);
+    h1{font-size:40px
     
+    }
+    p{font-size: 20;}
     padding: 20px;
 
     font-size: 32px;
